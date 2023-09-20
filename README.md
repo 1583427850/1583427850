@@ -2,6 +2,8 @@
 ### Hi there 👋
 <video src="https://www.bilibili.com/video/BV1nV411A7pe/?spm_id_from=333.1007.tianma.1-2-2.click"></video>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <!--
 **1583427850/1583427850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
