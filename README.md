@@ -1,6 +1,6 @@
 # hi
 ### Hi there 👋
-<video src="[视频链接](https://www.bilibili.com/video/BV1nV411A7pe/?spm_id_from=333.1007.tianma.1-2-2.click)"></video>
+<video src="https://www.bilibili.com/video/BV1nV411A7pe/?spm_id_from=333.1007.tianma.1-2-2.click"></video>
 
 
 <!--
