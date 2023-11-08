@@ -12,6 +12,7 @@
 
 
 <\br>
+<img src="https://wakatime.com"><img src="https://wakatime.com/share/@15b1f8bd-6a67-4d04-a26b-51167fc6f58c/976034e9-d843-4e7e-9bea-b3ade55ae0ea.png" /></img>
 
 <img src="https://wakatime.com/share/@15b1f8bd-6a67-4d04-a26b-51167fc6f58c/4a4e602a-bcf5-4c60-bd01-fcfaab37860b.svg"></img>
 
