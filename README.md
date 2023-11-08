@@ -12,7 +12,7 @@
 
 
 <\br>
-<figure><embed src="https://wakatime.com/share/@15b1f8bd-6a67-4d04-a26b-51167fc6f58c/876f4640-d8d6-4392-844f-da0b6a93c836.svg"></embed></figure>
+<img src="https://wakatime.com/share/@15b1f8bd-6a67-4d04-a26b-51167fc6f58c/876f4640-d8d6-4392-844f-da0b6a93c836.svg"></img>
 
 <!--
 **1583427850/1583427850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
