@@ -10,8 +10,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1583427850&hide_border=true" width="35%" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=1583427850&amp;langs_count=10&amp;exclude_repo=timerring.github.io&amp;count_private=true&amp;layout=compact&amp;hide_border=true">
 
-.. image:: https://wakatime.com/share/@15b1f8bd-6a67-4d04-a26b-51167fc6f58c/e95affb4-269b-4413-ad32-6741b9ea59f1.png
-    :target: https://wakatime.com/
 
 
 
